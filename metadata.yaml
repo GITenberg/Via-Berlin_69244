@@ -1,0 +1,42 @@
+_repo: Via-Berlin_69244
+_version: 0.0.1
+alternative_title: 'Via Berlin: a story of international intrigue'
+contributor:
+  illustrator:
+    agent_name: Howard, Eleanor
+    gutenberg_agent_id: '48087'
+    url: http://www.gutenberg.org/2009/agents/48087
+creator:
+  author:
+    agent_name: Marriott, Crittenden
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '55073'
+    url: http://www.gutenberg.org/2009/agents/55073
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69244'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433076051758&view=1up&seq=25&skin=2021
+pgterms:marc905: 20211130151518marriott
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note:
+- D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Page scans were provided by the New York Public Library's Digital Collections)
+- 'D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Page scans were provided by the New York Public Library''s Digital Collections)
+
+  Updated: 2022-11-13.'
+publication_note: 'United States: Robert J. Shores,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'United States. Navy -- Officers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Via Berlin
+url: http://www.gutenberg.org/ebooks/69244
