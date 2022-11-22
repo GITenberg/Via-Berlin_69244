@@ -6,6 +6,9 @@ contributor:
     agent_name: Howard, Eleanor
     gutenberg_agent_id: '48087'
     url: http://www.gutenberg.org/2009/agents/48087
+covers:
+- cover_type: archival
+  image_path: 69244-h/images/cover.jpg
 creator:
   author:
     agent_name: Marriott, Crittenden
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '55073'
     url: http://www.gutenberg.org/2009/agents/55073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69244#Via-Berlin
 gutenberg_issued: '2022-10-26'
 identifiers:
   gutenberg: '69244'
